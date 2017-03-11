@@ -1,4 +1,0 @@
-1. Creating this file on git hub and editing. Direct Commit. DONE
-2. sync with lab vm and download this file.
-3. edit the file locally and commit to local repository.
-4. push file to remote.!
